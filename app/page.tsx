@@ -19,7 +19,7 @@ export default function Home() {
         </div>
 
         {/* Hero Section */}
-        <div className="lg:mt-12 mt-6">
+        <div className="lg:mt-12 mt-8">
           <LandingHero />
         </div>
 
