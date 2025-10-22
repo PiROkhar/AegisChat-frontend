@@ -11,7 +11,7 @@ export default function Home() {
         </header>
 
         {/* Tagline */}
-        <div className="mx-auto w-full lg:max-w-7xl flex lg:justify-start justify-center px-6 pt-5">
+        <div className="mx-auto w-full  lg:max-w-7xl flex lg:justify-start justify-center px-6 pt-5">
           <div className="inline-flex items-center gap-2 rounded-md border border-[color:var(--color-brand)]/20 bg-background/40 px-3 py-1 text-xs text-muted-foreground backdrop-blur-sm">
             <span className="h-2 w-2 rounded-full bg-[color:var(--color-brand)] shadow-[0_0_8px_var(--color-brand)]" />
             Live, private rooms
